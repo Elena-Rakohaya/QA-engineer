@@ -17,4 +17,4 @@
 ---
 
 ## Навыки и технологии
-- "SQL"
+<em><strong>Jira, qase.io, SQL, Postman, Mockoon, Fiddler, Swagger, Trello, SoapUI</strong></em>
