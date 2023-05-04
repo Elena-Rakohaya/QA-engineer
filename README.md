@@ -8,13 +8,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
 ## Обо мне
 
 <p>Привет! Меня зовут Елена, я начинающий тестировщик.<br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения.</p>
 
----
-
 ## Навыки и технологии
-<em><strong>Jira, qase.io, SQL, Postman, Mockoon, Fiddler, Swagger, Trello, SoapUI</strong></em>
+<em><strong>Jira, qase.io, SQL, Postman, Mockoon, Fiddler, Swagger, Trello, SoapUI, Chrome DevTools.</strong></em>
+
+## Проекты
