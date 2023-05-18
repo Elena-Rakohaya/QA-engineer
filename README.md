@@ -16,7 +16,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения.</p>
 
 ## Навыки и технологии
-<em><strong>Jira, sitechco, qase.io, SQL, Postman, Swagger, SoapUI, Chrome DevTools.</strong></em>
+<em><strong>Jira, sitechco, qase.io, miro, SQL, Postman, Swagger, SoapUI, Chrome DevTools.</strong></em>
 
 ## Проекты
 
